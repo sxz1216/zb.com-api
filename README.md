@@ -1,5 +1,5 @@
 # zb.com-api
 zb.com api
 
-a single demo for zb.com 
-just some useful functions.
+A simple demo for zb.com .Just some useful functions.
+      any question contact sunxuanzhi@lingdianzn.com
